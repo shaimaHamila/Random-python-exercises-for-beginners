@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../des cours info/D-LSI MM/S2/AI/TP/TP1/.idea/TP1.iml" filepath="$PROJECT_DIR$/../../../des cours info/D-LSI MM/S2/AI/TP/TP1/.idea/TP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exUdemyCours/.idea/exUdemyCours.iml" filepath="$PROJECT_DIR$/../exUdemyCours/.idea/exUdemyCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/helloshaima.iml" filepath="$PROJECT_DIR$/.idea/helloshaima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tp_python/.idea/tp_python.iml" filepath="$PROJECT_DIR$/../tp_python/.idea/tp_python.iml" />
+    </modules>
+  </component>
+</project>
